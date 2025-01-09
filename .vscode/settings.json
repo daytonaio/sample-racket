@@ -1,0 +1,7 @@
+{
+    "racket-langserver.enableLogging": true,
+    "racket-langserver.path": "racket",
+    "racket-langserver.args": ["--lib", "racket-langserver"],
+    "racket-langserver.debug": false,
+    "editor.formatOnSave": false
+}
