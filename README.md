@@ -29,7 +29,11 @@ Add `6080` in Port column, browse to http://localhost:6080 and connect through n
 
 ![noVNC connect](screenshots/novnc_connect.png)
 
-You can open a terminal, run DrRacket
+You can open a terminal.
+
+![terminal](screenshots/terminal.png)
+
+Run DrRacket.
 
 ![DrRacket](screenshots/drracket.png)
 
